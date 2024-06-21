@@ -1,12 +1,78 @@
 # DSA-practice
 
-## Some methodologies
+- Start solving problems topic wise(DS) with easy
+- Leetcode
+- leetcode explained extension for video solutions
+- leetcode forcer which force to do one leetcode question in a day, try to create the extension for neetcode which also help your development skills.
+- CodeWars
+- [NeetCode](https://neetcode.io/)
 
+- [Some useful links](https://whimsical.com/leetcodehelper-YaLGhtNuqXB3ros8VJw5zi)
+
+
+- Stick to your language(loops, conditionals, functions and basic input and output)
+- Common DSA and library (C++ STL, Java Collections)
+
+- Learn System Design
+
+- Think of brute force and then find optimal solution.(30 -60 mins) on a problem.
+- Start contesting
+- Codeforces very math centric(segment trees, BIT) which not asked in interviews.
+
+- See previous questions as well for a company.
+  
+## Some Patterns
+
+- Get good at core algorithms like (Binary Search, BFS, DFS, SLiding window, Two pointers) and understand why it works.
 - To find prime number just loop till sqrt of the given number and also jump through prime numbers
+
+- [Leetcode Resource](https://github.com/ashishps1/awesome-leetcode-resources)
+- [High Level System Design](https://github.com/ashishps1/awesome-system-design-resources)
+- [Low Level System Design](https://github.com/ashishps1/awesome-low-level-design)
 
 ###  Sliding Window
 
-#### Some Formulas to keep in mind
+- try to find something specific in list in a fixed window
+- substring
+
+###  Subset
+
+- Find all possible combinations from a given set(no repititions, repitions)
+- similar to BFS
+  
+###  Modified Binary Search Pattern
+- try to implement bisect left and bisect right from python to get good understanding of Binary Search
+
+ 
+### Top k elements
+
+- kth largest number
+- use heap
+
+### Binary tree DFS
+
+- Finding max dept of binary tree
+- recursion to implement this
+- you traverse one side of the branch completely and then move on to other branch.
+
+### Topological sort
+
+- directed acyclic graph
+- Course schedule problem
+  
+### Binary Tree BFS
+
+- Explore all the branch on same level
+- Queue is use
+
+### Two pointed pattern
+
+- used in sorted array
+- Two sum problem (one pointer at the beginning and other at the end and depending upon whether the output is bigger or smaller than the required sum you move the pointers.)
+- triplets that add up to 0 in sorted array.
+
+
+## Some Formulas to keep in mind
 - Sum of first n natural numbers [n(n+1)]/2
 - Sum of first even n natural numbers [n(n+1)]
 - Sum of first odd n natural numbers n*n
@@ -20,18 +86,37 @@
 - Sum of squares of first n even numbers	[2n(n + 1)(2n + 1)] / 3
 - Sum of squares of first n odd numbers	[n(2n+1)(2n-1)] / 3
 
-#### Creating Data Structure
+## Creating Data Structure
+
+[YT - WilliamFiset](https://www.youtube.com/@WilliamFiset-videos)
+Book - DSA Made easy by Narsimha Karumachi,Cracking the Coding Interview by gayle laakmann
+
+### Arrays
+
+### Strings
+
+### Binary Tree
 
 
-#### Sorting and Searching Algorithms
+### Linked List
 
 
-#### Other Algorithms
+### Stacks
+
+### Queues
+
+### Hash Map
 
 
-#### DSA Questions
+## Sorting, Searching and Recusrsion Algorithms
 
-###### prime number
+
+## Other Algorithms
+
+
+## DSA Questions
+
+### prime number
 
 - Basic
 ```js
@@ -66,7 +151,7 @@ else
 3- else if number is divisible by 2, return false
 4- else check from 3 to sqrt(number) and increment counter each time by 2, hence checking if number is divisible by 3, 5, 7, 9, etc....
 
-###### Square root
+### Square root
 
 ```js
 function sqrt(x)
@@ -91,8 +176,8 @@ function sqrt(x)
 
 ```
 
-###### palindrome
+### palindrome
 
 
-###### Number of characters in a string
+### Number of characters in a string
 
