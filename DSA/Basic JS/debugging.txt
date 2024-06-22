@@ -1,0 +1,7 @@
+1. console.log() is the best way to debug.
+
+2. You can also debug in chrome using sources tab. Inside developer tools.
+
+    open file and click on number to set a breakpoint. Whenever code gets to this section it will pause and we can hover and see the content. We can also see the scope and we can even console.
+
+3. To write js code in chrome you can use console by pressing F12 or goto Sources in developer option and then inside that click on >> and then on Snippets. There you can create new js snippets and can run them.
