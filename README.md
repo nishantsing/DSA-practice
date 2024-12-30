@@ -20,6 +20,11 @@
 - Codeforces very math centric(segment trees, BIT) which not asked in interviews.
 
 - See previous questions as well for a company.
+
+## Blogs
+- [How to master DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
+- [15 Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
+- [One Year Plan](https://towardsdatascience.com/the-one-year-plan-for-competitive-coding-6af53f2f719c)
   
 ## Some Patterns
 
